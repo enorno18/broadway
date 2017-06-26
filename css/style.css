@@ -7,7 +7,7 @@ h1 {font-family: Helvetica;
   color: white
 }
 
-.header, #design {background-image: url("/Users/Enor/Desktop/codecademy--Project/broadway/css/image/the-flatiron-building.png");
+.header, #design {background-image: url("./css/image/the-flatiron-building.png");
 
 }
 
@@ -16,10 +16,13 @@ h1 {font-family: Helvetica;
       color: white;
 }
 
+a {color: white;
+    font-size: 18px;
+    text-align: left;
+
+}
+
 .directory {list-style-type: none;
-  color: white;
-  font-size: 18px;
-  text-align: center;
 }
 
 h2 {font-size: 32px;
@@ -31,7 +34,7 @@ h3 {font-size: 23px;
 
 p {font-size: 14px}
 
-.footer {text-align: left, inherit;
+.footer {text-align: left;
         font-size: 11px;
         color: white;
         background-color: dimgray;
