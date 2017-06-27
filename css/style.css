@@ -1,7 +1,7 @@
 * {text-align: center;
   list-style-type: none;}
 
-.head, #design {background-image: url("/Users/Enor/Desktop/codecademy--Project/broadway/css/image/the-flatiron-building.png");
+.head, #design {background-image: url("broadway/css/image/the-flatiron-building.png");
                 background-repeat: no-repeat;
                 background-position: center;}
 
